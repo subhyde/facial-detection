@@ -2,5 +2,6 @@
 Detects age, gender and emotions in real time!
 
 
-#Live Demo https://subhyde.github.io/facial-detection/
+# Live Demo
+https://subhyde.github.io/facial-detection/
 
